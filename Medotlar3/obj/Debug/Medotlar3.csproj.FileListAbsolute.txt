@@ -1,0 +1,8 @@
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\bin\Debug\Medotlar3.exe.config
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\bin\Debug\Medotlar3.exe
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\bin\Debug\Medotlar3.pdb
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\obj\Debug\Medotlar3.csproj.AssemblyReference.cache
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\obj\Debug\Medotlar3.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\obj\Debug\Medotlar3.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\obj\Debug\Medotlar3.exe
+C:\Users\yasin\Desktop\C#\Metodlar\Medotlar3\obj\Debug\Medotlar3.pdb
